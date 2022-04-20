@@ -1,8 +1,8 @@
-## Regression
+# Regression
 Machine Learning classification Algorithm
-# Problem Statement
+## Problem Statement
 
-# Dataset
+## Dataset
 The dataset used is the  from Kaggle.
-# Model(s) used
+## Model(s) used
 The regression used on the data set is 
